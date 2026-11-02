@@ -1,10 +1,9 @@
-[![Build and Test](https://github.com/ShadowLynxTrail/DevOps-pet-project/actions/workflows/deploy.yml/badge.svg)](https://github.com/ShadowLynxTrail/DevOps-pet-project/actions/workflows/deploy.yml)
 
 # DevOps Pet Project 🚀
 
 Учебный проект, созданный для демонстрации базовых DevOps-практик, контейнеризации приложений и настройки пайплайнов CI/CD.
 
-> **Внимание:** Вставь сюда свой бейджик статуса сборки, если ты уже сгенерировал его в Actions (инструкция ниже). Если нет — просто удали эту строку.
+[![Build and Test](https://github.com/ShadowLynxTrail/DevOps-pet-project/actions/workflows/deploy.yml/badge.svg)](https://github.com/ShadowLynxTrail/DevOps-pet-project/actions/workflows/deploy.yml)
 
 ## 🎯 Цель проекта
 Показать на практике понимание жизненного цикла разработки ПО (SDLC), изоляции среды и автоматизации процессов. 
