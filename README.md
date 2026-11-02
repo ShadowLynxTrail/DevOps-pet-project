@@ -45,7 +45,7 @@ docker build -t my-devops-app .
 bash
 docker run my-devops-app
 
-📂 Структура проекта
+## 📂 Структура проекта
 app.py — исходный код приложения (генератор случайных фраз).
 
 Dockerfile — инструкция для сборки Docker-образа.
