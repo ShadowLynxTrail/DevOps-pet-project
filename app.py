@@ -1,4 +1,4 @@
-import daterime
+import datetime
 import random
 
 morning_mottos = [
@@ -9,9 +9,9 @@ morning_mottos = [
 ]
 
 def main():
- print("===DevOps Pet Project ===")
- print(f"Время запуска:{datetime.datetime.now()}")
- print(f"Девиз дня:{random.choise(morning_mottos)}")
+    print("=== DevOps Pet Project ===")
+    print(f"Время запуска: {datetime.datetime.now()}")
+    print(f"Девиз дня: {random.choice(morning_mottos)}")
 
 if __name__ == "__main__":
-  main()
+    main()
