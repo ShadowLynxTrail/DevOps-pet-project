@@ -46,8 +46,8 @@ bash
 docker run my-devops-app
 
 ## 📂 Структура проекта
-app.py — исходный код приложения (генератор случайных фраз).
+* `app.py` — исходный код приложения (генератор случайных фраз).
 
-Dockerfile — инструкция для сборки Docker-образа.
+* `Dockerfile` — инструкция для сборки Docker-образа.
 
-.github/workflows/deploy.yml — конфигурация CI/CD пайплайна.
+* `.github/workflows/deploy.yml` — конфигурация CI/CD пайплайна.
