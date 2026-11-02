@@ -1,5 +1,5 @@
 [![Build and Test](https://github.com/ShadowLynxTrail/DevOps-pet-project/actions/workflows/deploy.yml/badge.svg)](https://github.com/ShadowLynxTrail/DevOps-pet-project/actions/workflows/deploy.yml)
-# DevOps-pet-project
+
 # DevOps Pet Project 🚀
 
 Учебный проект, созданный для демонстрации базовых DevOps-практик, контейнеризации приложений и настройки пайплайнов CI/CD.
